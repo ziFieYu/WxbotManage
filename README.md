@@ -1,7 +1,12 @@
 #WxbotManage
-基于Wxbot的微信多开管理和Webapi系统
+基于Wxbot的微信多开管理和Webapi系统,可以实现如下内容：
 
-Wxbot地址：https://github.com/liuwons/wxBot
+1. 一个进程管理多个微信，互不影响，配置独立。
+2. 可以通过Web界面对登录的微信进行管理。
+3. 提供webapi对登录的微信进行操控，可以接入任意语言开发的系统。
+4. 消息处理插件化，可以自定义插件编写实现多种功能。例如：转发消息给其他系统处理，群监控，自动回复，群管理等。
+
+感谢liuwons的Wxbot代码：https://github.com/liuwons/wxBot
 
 ## 1 快速开始
 ### 1.1 安装依赖库
