@@ -1,5 +1,6 @@
 #WxbotManage
 基于Wxbot的微信多开管理和Webapi系统
+Wxbot地址：https://github.com/liuwons/wxBot
 
 ## 1 快速开始
 ### 1.1 安装依赖库
