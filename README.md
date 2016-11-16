@@ -1,0 +1,2 @@
+# weixinmanage
+基于Wxbot的微信多开管理和Webapi系统
