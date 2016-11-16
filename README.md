@@ -1,5 +1,6 @@
 #WxbotManage
 基于Wxbot的微信多开管理和Webapi系统
+
 Wxbot地址：https://github.com/liuwons/wxBot
 
 ## 1 快速开始
@@ -21,6 +22,8 @@ python main.py
 即可调用webapi提供的相关接口
 
 然后访问http://127.0.0.1:8080  帐号密码均为admin 即可对微信进行管理。
+
+![](http://bbs.vivre.cn/uploads/image/201611/14792600062342.png)
 
 ### 1.3 插件
 插件可以实现自定义处理微信消息的功能,插件存放在`plugin`目录,并且在`handle_msg_all`函数中自动动态调用
