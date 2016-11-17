@@ -1,4 +1,4 @@
-#WxbotManage
+#WxbotManage（当前内测中-V0.1）
 基于Wxbot的微信多开管理和Webapi系统,可以实现如下内容：
 
 1. 一个进程管理多个微信，互不影响，配置独立。
